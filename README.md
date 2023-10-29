@@ -1,5 +1,5 @@
 # FoodItem Delivery
- * This project is a Java and Spring Boot based FoodItem Delivery API. The project utilizes the MVC (Model-View-Controller) architecture to ensure that the code is modular and easily readable. The foodItem Delivery Api has Three models, the FoodItem and user,and order and their respective permissions to perform CRUD (Create, Read, Update, Delete) operations on songs and playlists.
+ * This project is a Java and Spring Boot based FoodItem Delivery API. The project utilizes the MVC (Model-View-Controller) architecture to ensure that the code is modular and easily readable. The foodItem Delivery Api has Three models, the FoodItem and user,and order and their respective permissions to perform CRUD (Create, Read, Update, Delete).
  
  ## Screenshots
 ![Screenshot 2023-10-29 083125](https://github.com/Shravankumar542-d/assignment/assets/142691051/66bc8560-d437-4b70-82ae-11039de805ac)
